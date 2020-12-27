@@ -1,5 +1,6 @@
- const ACTIONTYPE = {
+const ACTIONTYPE = {
     TYPE:'TOGGLE_CART_HIDDEN',
+    ADD_ITEM:'ADD_ITEM',
 }
 
 
